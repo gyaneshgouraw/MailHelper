@@ -1,0 +1,14 @@
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\MailApp2.dll.config
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\MailApp2.dll
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\MailApp2.pdb
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\ServiceStack.Client.dll
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\ServiceStack.Common.dll
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\ServiceStack.dll
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\ServiceStack.Interfaces.dll
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\ServiceStack.Text.dll
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\ServiceStack.xml
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\ServiceStack.Client.xml
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\ServiceStack.Common.xml
+G:\Previous\ASP.net\MailApp2\MailApp2\bin\ServiceStack.Text.xml
+G:\Previous\ASP.net\MailApp2\MailApp2\obj\Release\MailApp2.dll
+G:\Previous\ASP.net\MailApp2\MailApp2\obj\Release\MailApp2.pdb
